@@ -1,4 +1,4 @@
-# consumir-api
+# consumir-api-dart
 
 Programa en **Dart puro** (sin dependencias externas) que consume la API pública de [JSONPlaceholder](https://jsonplaceholder.typicode.com) para obtener usuarios y sus publicaciones.
 
